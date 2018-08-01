@@ -659,8 +659,4 @@ then
   eval "$(pyenv init -)"
 fi
 
-export VAULT_ADDR='https://vault.keplergrp.com:8200'
-export VAULT_AUTH_GITHUB_TOKEN='35de4d36a634940e043ccabe281ebb96e3feefe7'
-export PIPENV_VENV_IN_PROJECT='doit'
-
 # }}}
